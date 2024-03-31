@@ -25,7 +25,7 @@ export default function Item({ item }) {
             {category ? `${category}/` : ""}
             {product_type}
           </span>
-          <Button color="orange">구매하기</Button>
+          <Button color="orange">구매하2222기</Button>
         </div>
       </div>
       <Header as="h3">Description</Header>
